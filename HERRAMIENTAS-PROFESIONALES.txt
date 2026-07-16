@@ -1,0 +1,20 @@
+Los profesionales de Diseño y la Programación Web utilizan herramientas divididas en tres grupos principales: Diseño visual, desarrollo de código y gestión de proyectos. 
+Estas herramientas ayudan a crear, construir y lanzar sitios web rápidos y modernos en la nube.
+1. Diseño y Prototipado (UI/UX)
+El diseño es el plano de la casa. Aquí se dibujan las ideas antes de escribir el código. 
+Figma: Es la herramienta más popular. Es un programa en la nube donde varios diseñadores pueden trabajar al mismo tiempo. Sirve para crear maquetas exactas de cómo se verá la web.
+Adobe XD y Sketch: Programas similares a Figma que se enfocan en crear interfaces y prototipos interactivos.
+Adobe Illustrator: Software para crear logotipos e íconos personalizados.
+2. Programación y Desarrollo (Frontend y Backend)
+El desarrollo es la construcción de la casa con materiales reales.
+Editores de Código: Son los programas donde se escribe el código. Visual Studio Code (VS Code) es el más usado por ser gratuito y muy rápido.
+Lenguajes principales: Las bases de cualquier web son HTML, CSS y JavaScript.
+Frameworks y Bibliotecas: Son herramientas que ayudan a construir partes de la web más rápido (como las piezas prefabricadas de una casa). Ejemplos muy usados son React, Astro y Bootstrap.
+Inteligencia Artificial para programar: Herramientas como GitHub Copilot sugieren código mientras escribes, actuando como un asistente inteligente.
+3. Sistemas de Control de Versiones
+Imagina que guardas una copia de tu proyecto cada vez que funciona bien. Si te equivocas, puedes volver a esa copia.
+Git: Es el sistema que guarda todos los cambios de tu código.
+GitHub: Es una plataforma en internet donde guardas esas copias y trabajas en equipo con otros programadores.
+4. Plataformas Web y Constructores Visuales (CMS)
+WordPress: El sistema más utilizado en el mundo para crear blogs y sitios web. Los profesionales usan herramientas visuales como Elementor para diseñar la web sin tocar tanto código.
+Webflow: Es un creador visual avanzado que permite a los diseñadores crear sitios web complejos con animaciones sin necesidad de ser expertos programadores. 
