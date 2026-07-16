@@ -1,0 +1,11 @@
+**Concepto**
+
+El diseño y programación web es el proceso de crear y desarrollar páginas web para que sean atractivas, funcionales y fáciles de usar. El diseño web se enfoca
+ en la apariencia visual, como los colores, imágenes, tipografía y la distribución de los elementos, mientras que la programación web permite que la página funcione
+ correctamente mediante lenguajes como HTML, CSS y JavaScript.
+
+**Importancia**
+
+El diseño y programación web es importante porque permite que personas, empresas e instituciones tengan presencia en Internet y puedan compartir información,
+ ofrecer productos o servicios y comunicarse con los usuarios. Además, una página web bien diseñada mejora la experiencia del visitante, transmite confianza y 
+facilita el acceso a la información de manera rápida y eficiente.
