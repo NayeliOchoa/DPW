@@ -8,6 +8,8 @@ Por otro lado, la programación web se enfoca en el funcionamiento del sitio med
 
 Ambas áreas trabajan en conjunto para desarrollar experiencias digitales completas, combinando creatividad y tecnología.
 
+En la actualidad, el Diseño y Programación Web es una disciplina fundamental debido al crecimiento del comercio electrónico, las plataformas digitales y los servicios en línea. Contar con un sitio web bien diseñado y correctamente programado mejora la experiencia del usuario, fortalece la presencia de una empresa o proyecto en Internet y facilita la comunicación, el acceso a la información y la interacción con los clientes.
+
 # La Importancia de la Carrera en el Mundo Digital
 
 El Diseño y Programación Web es importante porque permite que personas, empresas e instituciones puedan tener presencia en Internet y comunicarse con sus usuarios de manera efectiva.
@@ -15,3 +17,6 @@ El Diseño y Programación Web es importante porque permite que personas, empres
 Una página web bien diseñada facilita el acceso a la información, mejora la experiencia del visitante y transmite confianza. Además, permite ofrecer productos, servicios y soluciones digitales que ayudan al crecimiento de diferentes organizaciones.
 
 Actualmente, los profesionales de esta área cumplen un papel fundamental en la transformación digital, ya que participan en la creación de plataformas y herramientas que forman parte de la vida diaria.
+
+Además, esta carrera fomenta el desarrollo de habilidades como la creatividad, el pensamiento lógico, la resolución de problemas y el trabajo en equipo. Gracias a estos conocimientos, los profesionales pueden crear soluciones innovadoras para distintos sectores, contribuyendo al avance tecnológico y respondiendo a las necesidades del mundo digital actual.
+
