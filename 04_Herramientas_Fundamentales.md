@@ -1,8 +1,8 @@
 # Herramientas Fundamentales del Diseño y Programación Web
 
-Los profesionales de Diseño y Programación Web utilizan diversas herramientas que permiten planificar, diseñar, desarrollar y administrar proyectos digitales.
+Los profesionales de Diseño y Programación Web utilizan diversas herramientas que permiten planificar, diseñar, crear, desarrollar y administrar proyectos digitales.
 
-Estas herramientas se pueden organizar en tres áreas principales: diseño visual, desarrollo web y gestión de proyectos. Su uso facilita la creación de sitios web modernos, funcionales y adaptados a las necesidades de los usuarios.
+Estas herramientas se pueden organizar en tres áreas principales: diseño visual, desarrollo web y gestión de proyectos. Su uso facilita la creación de sitios web modernos, funcionales y adaptados a las necesidades de los usuarios de una forma rápida y estructurada.
 
 # 1. Diseño y Prototipado (UI/UX)
 
@@ -64,7 +64,7 @@ Es una plataforma en línea que permite almacenar repositorios, compartir proyec
 
 # 4. Plataformas Web y Constructores Visuales (CMS)
 
-Los CMS (Sistemas de Gestión de Contenidos) permiten crear y administrar sitios web de manera más sencilla, incluso sin desarrollar todo el código desde cero.
+Los CMS (Sistemas de Gestión de Contenidos) permiten crear y administrar sitios web de manera más sencilla, incluso sin desarrollar todo el código desde cero, con un paso a paso sencillo de comprender.
 
 ## WordPress
 
