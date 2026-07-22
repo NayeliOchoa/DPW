@@ -7,8 +7,7 @@
 ## Información del Proyecto
 
 **Carrera:** Diseño y Programación Web  
-**Área:** Informática Básica  
-**Ciclo:** (colocar ciclo)  
+**Área:** Informática Básica   
 **Docente:** Tapia Suaña Marlene  
 **Turno:** Noche  
 **Año:** 2026  
