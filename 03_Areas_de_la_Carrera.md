@@ -4,6 +4,18 @@
 
 El área de diseño gráfico se enfoca en la creación de elementos visuales como logotipos, banners, afiches, iconos e ilustraciones. Su objetivo es comunicar ideas de forma atractiva y fortalecer la identidad visual de una marca o empresa mediante el uso adecuado de colores, tipografías y composiciones.
 
+Fundamentos del diseño.
+Dibujo e ilustración.
+Teoría del color.
+Tipografía.
+Diseño publicitario.
+Diseño editorial.
+Fotografía.
+Diseño web y de interfaces (UI).
+Animación y multimedia.
+Branding e identidad corporativa.
+Marketing y comunicación visual.
+
 ## Diseño de Interfaces (UI)
 
 El diseño de interfaces se encarga de crear la apariencia y organización de páginas y aplicaciones web. Su propósito es ofrecer una experiencia de usuario intuitiva, agradable y fácil de navegar, asegurando que los elementos sean claros, accesibles y funcionales en diferentes dispositivos.

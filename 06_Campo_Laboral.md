@@ -37,9 +37,7 @@ Los profesionales de Diseño y Programación Web pueden desempeñarse en:
 - Empresas de desarrollo tecnológico.
 - Agencias de diseño digital.
 - Empresas públicas y privadas.
-- Instituciones educativas.
-- Emprendimientos digitales.
-- Trabajo independiente o freelance.
+
 
 ## Importancia del profesional web en la actualidad
 
